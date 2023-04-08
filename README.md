@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Akuya Esekon</h1>
-<h3 align="center">A passionate Mobile Application developer from Kenya</h3>
+<h3 align="center">A passionate Front-End developer from Kenya</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,15 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/_akuyaesekon" target="blank"><img src="https://img.shields.io/twitter/follow/_akuyaesekon?logo=twitter&style=for-the-badge" alt="_akuyaesekon" /></a> </p>
 
-- 🌱 I’m currently learning **Angular js**
+- 🌱 I’m currently learning **React js**
 
-- 👯 I’m looking to collaborate on **Android & Flutter projects**
+- 👯 I’m looking to collaborate on **React projects**
 
-- 💬 Ask me about **Kotlin, Java, Android & Flutter**
+- 💬 Ask me about **JavaScript, React, Java, Android & Flutter**
 
 - 📫 How to reach me **akuyaesekon@gmail.com**
-
-- ⚡ Fun fact **I think i am an Introvert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
