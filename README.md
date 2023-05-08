@@ -2,7 +2,7 @@
 😎 I am Akuya.<br>🏠 I live in Nairobi, Kenya.<br>👨‍💻 I’m currently working with HTML| CSS| JavaScript(ES6+)| React.js| Next.js| Cloud Services.<br>👌 I am very friendly and accommodating<br><br>  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=FullStack+Developer...+;Building!+Learning!+%F0%9F%92%A1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Frontend+Developer...+;Building!+Learning!+%F0%9F%92%A1">
 </p>
 
 
