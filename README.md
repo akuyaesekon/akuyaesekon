@@ -1,10 +1,6 @@
 # 💫 About Me:
 😎 I am Akuya.<br>🏠 I live in Nairobi, Kenya.<br>👨‍💻 I’m currently working with Data Science Projects| Cloud Services.<br>👌 I am very friendly and accommodating<br><br>  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Helvetica&size=28&duration=6500&color=0B3B8E&center=true&vCenter=true&width=450&lines=Full Stack+Developer...+;Building!+Learning!+%F0%9F%92%A1">
-</p>
-
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
