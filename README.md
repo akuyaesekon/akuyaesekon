@@ -42,12 +42,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akuyaesekon&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akuyaesekon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
 ## 🐦 Latest Tweet
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out my latest project! 🚀 #DataScience #AI #WebScraping</p>&mdash; Akuya (@_akuyaesekon) <a href="https://twitter.com/_akuyaesekon/status/1234567890?ref_src=twsrc%5Etfw">December 24, 2024</a></blockquote>
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">Check out my latest project! 🚀 #DataScience #AI #WebScraping</p>
+  &mdash; Akuya (@_akuyaesekon) 
+  <a href="https://twitter.com/_akuyaesekon/status/1234567890?ref_src=twsrc%5Etfw">December 24, 2024</a>
+</blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akuyaesekon&limit=5&theme=dark&combine_all_yearly_contributions=true)
