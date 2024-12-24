@@ -44,12 +44,8 @@
 
 ## 🐦 Latest Tweet
 
-<blockquote class="twitter-tweet">
-  <p lang="en" dir="ltr">Check out my latest project! 🚀 #DataScience #AI #WebScraping</p>
-  &mdash; Akuya (@_akuyaesekon) 
-  <a href="https://twitter.com/_akuyaesekon/status/1234567890?ref_src=twsrc%5Etfw">December 24, 2024</a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[![](https://gtce.itsvg.in/api?username=_akuyaesekon)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akuyaesekon&limit=5&theme=dark&combine_all_yearly_contributions=true)
